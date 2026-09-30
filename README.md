@@ -1,4 +1,4 @@
-# Agimat Studio · Beta 0.1
+# Agimat Studio · Beta
 
 A TikTok LIVE helper for streamers: live chat with photos, alerts, goals,
 shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
@@ -6,8 +6,9 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 This is a **private beta**: you need a beta code from Pepe.
 
 ## 1. Download
-Open **Releases** (right side of this page) → **v0.1-beta** → download
-**AgimatStudio-Beta-0.1.zip**.
+Open **Releases** (right side of this page) → the **newest** one at the top →
+download the **AgimatStudio-Beta-….zip** file. The version is in the app's
+title bar (e.g. "Agimat Studio Beta 0.1.1").
 
 ## 2. Unzip
 Right-click the zip → **Extract All** → choose your **Desktop** (or Documents).
