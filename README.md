@@ -5,10 +5,45 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 
 This is a **private beta**: you need a beta code from Pepe.
 
+## What's new in 0.2
+- 📐 **Samples**: every widget box in the Live Monitor has a Sample button
+  (Off / 🟢 Best / 🔴 Worst). Worst shows the biggest case (the longest
+  comment and name, a full Top 10…), Best a normal-looking stream, with a
+  dashed outline, so you can size and style it in your streaming app.
+  Connect turns them all off; while LIVE a sample lasts 8 seconds.
+- 🗂️ **Live Monitor tabs**: Setup · Alerts & gifts · Goals & timer · Chat &
+  banners · Games & stats. The Soundboard stays on the right.
+- 🏆 **Leaderboards**: ❤️ Top Likers, 🎁 Top Gifts and ⭐ Top Points, each its
+  own source, plus one 🏆 Leaderboard that takes turns between them.
+- 🗿 **Bulul Arena fights**: size is health. Taps make a head bigger and
+  angrier, bumps hurt, and a head that shrinks away is 💥 KO'd until that
+  viewer taps again.
+- 🎁 **Gift pickers with pictures**: search a gift by name, or filter by price.
+- 👁️ **Viewers**: "124 watching · 1,532 came this stream".
+- 🎁 **Gift Menu**: shows viewers which gifts do something on your stream.
+  Pick a look: belt, spotlight or menu board.
+- 📢 **Megaphones 1–4**: your own lines, with chat words (a viewer types
+  `!specs` and the Megaphone jumps to that line). Your old Megaphone link is
+  Megaphone 1, and your Game and Specs moved into it.
+- 🗣️ **Alert TTS on/off**: a button for alerts' read-aloud lines, next to
+  Chat TTS.
+- 🎉 **9 confetti styles**: party poppers, fireworks, balloons, hearts,
+  ribbons, sparkles, your own emoji, and a rain of the gift that was sent.
+  Each alert can pick its own; pick colours and how much.
+- 🎵 **Easier Spotify setup**: step-by-step buttons in the Music Bot tab, and
+  a red warning while it isn't connected.
+- 🎵 **Song requests**: paid with KaPePe points, a gift (each one = 1 song
+  token) or free, with a limit on songs waiting per viewer.
+- 🎛️ Soundboard key combos (e.g. Ctrl+1) · new sounds start at 50 % volume
+  · Live Chat 10/15/20 lines · hide a goal with "Show on stream" · Bulul
+  Arena stay time · TTS skips emoji · new installs can pick gifts right away.
+- ⚠️ A red warning in the Live Monitor when **Alert screen 1** isn't on your
+  stream (that's why some of you couldn't hear the TTS test).
+
 ## 1. Download
 Open **Releases** (right side of this page) → the **newest** one at the top →
 download the **AgimatStudio-Beta-….zip** file. The version is in the app's
-title bar (e.g. "Agimat Studio Beta 0.1.1").
+title bar (e.g. "Agimat Studio Beta 0.2.0").
 
 ## 2. Unzip
 Right-click the zip → **Extract All** → choose your **Desktop** (or Documents).
@@ -30,10 +65,15 @@ Type your TikTok name (no @) and press **Connect Stream** while you're LIVE.
 
 ## 6. Put it on stream
 Open **http://localhost:8000/monitor.html** in your browser: that's your
-Live Monitor. Under **Widgets**, press **📋 Copy link** on the one you want,
+Live Monitor. Open a tab, press **📋 Copy link** on the box you want,
 then add it to your streaming app:
 - **Meld Studio** or **OBS**: add a **Browser Source** with that link.
 - **TikTok LIVE Studio**: **Add source → Link** and paste it.
+
+**Always add Alert screen 1** (Live Monitor → **🎬 Setup** tab →
+Alert screens → Screen 1 → 📋 Copy link), and keep it in every scene. Alert sounds, videos
+and the voice reading your chat all play through it. Without it you hear
+nothing. The Live Monitor shows a red warning until it's there.
 
 ## 7. Scene buttons (Meld Studio or OBS)
 In the Live Monitor's **🎬 Streaming app** box, pick the app you stream with.
@@ -48,7 +88,8 @@ remote control, so it gets everything except scene buttons.
 
 ## 8. Spotify (optional)
 You need **Spotify Premium** (Spotify's rule for apps like this, and for
-controlling playback).
+controlling playback). The app's **⚙️ Settings → 🎵 Music Bot** tab walks
+you through these steps with buttons.
 1. Go to **developer.spotify.com/dashboard**, log in, **Create app**.
 2. Any name. Redirect URI, exactly: `http://127.0.0.1:8000/spotify/callback`
    (the numbers, not "localhost"). Tick **Web API**. Save.
