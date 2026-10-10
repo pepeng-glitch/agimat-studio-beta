@@ -5,6 +5,18 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 
 This is a **private beta**: you need a beta code from Pepe.
 
+## What's new in 0.2.2
+- 🏓 **Pepeng Pong**, a team game: viewers join a team by typing its number
+  or name, gifts and taps drop dots, and the ball pops them for points.
+  Play / Stop / Reset, or "Play indefinitely" for AFK streams.
+  Live Monitor → Games.
+
+## What's new in 0.2.1
+- 🗿 **Bulul Arena 2.0**: a fairer fight, 3 gift power-ups (spinning
+  lightsaber, gun, electric shockwave), KO score with a Top KOs board, and
+  4 / 8 / 12 / 16 heads.
+- 🏆 Leaderboards are see-through, and rows keep the same size.
+
 ## What's new in 0.2
 - 📐 **Samples**: every widget box in the Live Monitor has a Sample button
   (Off / 🟢 Best / 🔴 Worst). Worst shows the biggest case (the longest
