@@ -5,6 +5,22 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 
 This is a **private beta**: you need a beta code from Pepe.
 
+## What's new in 0.2.4
+- 🗿 **Bulul Arena 3.0**: the number on each player is their taps = their
+  health (0 = KO), up to **100 players**, a Fight setting (Calm / Normal /
+  Aggressive), and **six gift power-ups** that charge first and can be
+  combined: 🌀 black hole, 🦈 saw blade, 🗡️ lightsaber, 🔫 gun, ⚡ lightning,
+  💀 skull wave.
+- 📱 **A tall 9:16 arena link** for phone-shaped streams. In Meld, set that
+  layer to W 1080, H 1920 and turn **Lock size off**.
+- 👀 **The Live Monitor opens in its own Agimat window** (or your browser:
+  Settings → Live Monitor opens in).
+- 🔊 **Sound pads inside the app** and the Magic Remote: a 3×3 grid of your
+  first 9 sounds, placed where you like (Settings → Sound pads).
+- 🎨 **Calm themes** (Tala Slate, Charcoal, Sage, Light) for both windows,
+  and a Words / Icons switch in the Live Monitor.
+- After updating, refresh your Alerts, Bulul Arena and Pepeng Pong sources in Meld / OBS once.
+
 ## What's new in 0.2.3
 - ⌨️ **Sound keys that work**: numpad keys and F-keys alone (Numpad 1 is
   its own key), a held key in your game no longer stops them, press a
