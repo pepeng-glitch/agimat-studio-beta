@@ -5,6 +5,20 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 
 This is a **private beta**: you need a beta code from Pepe.
 
+## What's new in 0.2.3
+- ⌨️ **Sound keys that work**: numpad keys and F-keys alone (Numpad 1 is
+  its own key), a held key in your game no longer stops them, press a
+  sound's key again to stop it, and a key for ⏹ Stop all.
+- 🏓 **Pepeng Pong**: teams stay every round, no more stutter when the ball
+  pops lots of dots, and a 🏅 leaderboard per team (sides, under the game or
+  corners; Top 3 / 5 / 10) plus "Pepe +10" pop-ups with the viewer's picture.
+- ⚡ **No more double alerts**: a pop-up when a gift already does something
+  (Play both / Replace / Cancel), and a Gift list showing what each gift does.
+- 🗂️ **Profiles**: keep setups like "Podcast" and "Games", and switch at the
+  top of the Live Monitor, even mid-stream.
+- 💾 Safer saving: a crash can't leave half a settings file.
+- After updating, refresh your Alerts and Pepeng Pong sources in Meld / OBS once.
+
 ## What's new in 0.2.2
 - 🏓 **Pepeng Pong**, a team game: viewers join a team by typing its number
   or name, gifts and taps drop dots, and the ball pops them for points.
