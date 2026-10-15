@@ -6,6 +6,11 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 This is a **private beta**: you need a beta code from Pepe.
 
 ## What's new in 0.2.5
+- 🪨 **New game: Cliffside Siege (9:16)**: viewers type **A** or **B** to join
+  a team on two night cliffs and throw spears at the other team's bale. Taps
+  throw faster; gifts you pick give powers (🔥 torch, 🔫 gun, 🚀 bazooka,
+  🗡️ blades, 🌩️ Wrath of the Mumbaki). Potato Mode for slower PCs. In Meld:
+  W 1080, H 1920, Lock size off.
 - ⏳ **Four timers**: the Streamathon box now holds up to 4 countdowns, each
   with its own name, link, key (start / pause / resume), rules and look. At
   0:00 a timer can play a Soundboard sound and switch to a scene.
