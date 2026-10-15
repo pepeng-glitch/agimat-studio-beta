@@ -5,6 +5,17 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 
 This is a **private beta**: you need a beta code from Pepe.
 
+## What's new in 0.2.5
+- ⏳ **Four timers**: the Streamathon box now holds up to 4 countdowns, each
+  with its own name, link, key (start / pause / resume), rules and look. At
+  0:00 a timer can play a Soundboard sound and switch to a scene.
+- 🗿 **Bulul Arena gift combos**: the first gift turns the power on; more of
+  that gift while it's on = **+80 health per coin** (Rose ×29 = the saw +
+  2,240 health).
+- 🎯 **Goals keep their count** when Agimat restarts in the middle of a LIVE,
+  and each goal has a **Count now** box to type a count by hand.
+- After updating, refresh your Alerts, Streamathon, Bulul Arena and Pepeng Pong sources in Meld / OBS once.
+
 ## What's new in 0.2.4
 - 🗿 **Bulul Arena 3.0**: the number on each player is their taps = their
   health (0 = KO), up to **100 players**, a Fight setting (Calm / Normal /
