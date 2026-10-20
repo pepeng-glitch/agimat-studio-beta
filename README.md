@@ -5,6 +5,30 @@ shoutouts, polls, a streamathon clock, your socials, and Meld Studio controls.
 
 This is a **private beta**: you need a beta code from Pepe.
 
+## Quick Start
+New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
+
+![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
+
+## What's new in 0.2.6
+- 🌾 **New game: Tug-of-War (9:16)**: viewers type **1** or **2** to join a
+  team of Ifugao fighters on the Banaue rice terraces. Join first: only team
+  members' gifts, taps and follows count. Gifts you pick send fighters (Bolo,
+  Shield Spearman, Headhunter, Gumayang, Mumbaki, the Bulul boss), the whole
+  team's taps fill a swarm bar, and houses shoot arrows. A half-screen link
+  too. In Meld: W 1080, H 1920 (half: H 960), Lock size off.
+- 🪐 **Bulul Arena: Neutral fight**: heads float like in space, nobody chases,
+  taps never shove. Bumps still hurt, powers work as always. Float speed 1-10.
+- 📏 **Line up**: Leaderboards left / middle / right, Live Chat left / right,
+  and long chat text folds instead of being cut off.
+- 🩹 **Games survive a crash**: reopen Agimat in the same LIVE and the teams,
+  tap bars and Play are still there; alerts don't fire twice. A new LIVE
+  starts fresh. Typing 1 / 2 now works in Tug-of-War even with Pong on.
+- ⬇ **Your version, top right**, and a gold **Update** button when a new
+  beta is out (it downloads the zip).
+- 🔊 **Sound pads open up**: "+13 more" shows all your sounds in the app.
+- After updating, refresh your Live Chat, Leaderboard, Bulul Arena and Cliffside Siege sources in Meld / OBS once.
+
 ## What's new in 0.2.5
 - 🪨 **New game: Cliffside Siege (9:16)**: viewers type **A** or **B** to join
   a team on two night cliffs and throw spears at the other team's bale. Taps
@@ -12,9 +36,9 @@ This is a **private beta**: you need a beta code from Pepe.
   🗡️ blades, 🌩️ Wrath of the Mumbaki). Your own team names and colours
   (Ifugao vs Kalinga to start). Potato Mode for slower PCs. In Meld:
   W 1080, H 1920, Lock size off.
-- ⏳ **Four timers**: the Streamathon box now holds up to 4 countdowns, each
-  with its own name, link, key (start / pause / resume), rules and look. At
-  0:00 a timer can play a Soundboard sound and switch to a scene.
+- ⏳ **More timers**: press ➕ Add a timer for up to 8 countdowns, each in its
+  own box with its own name, link, key (start / pause / resume), rules and
+  look. At 0:00 a timer can play a Soundboard sound and switch to a scene.
 - 🗿 **Bulul Arena gift combos**: the first gift turns the power on; more of
   that gift while it's on = **+80 health per coin** (Rose ×29 = the saw +
   2,240 health).
