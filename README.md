@@ -10,6 +10,24 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.7
+- ⏳ **Streamathon: Survival mode**: every rule can add OR take away time
+  (each coin, every 100 taps, follows, shares, gifts you pick), with − / +
+  buttons. One click for 🛡️ **Survival rules**: each coin +5 s, every 100
+  taps −1 s, Clock max 60 min, Longest stream 4 hours. Plus ⚡ Double time,
+  a 🚨 Danger zone under 5:00, gift pictures on the clock, and a new
+  **Rules + 🏆 Time keepers** layer.
+- 🎁 **A gift list for every game** (Arena, Tug-of-War, Siege, Pong): its
+  own layer, as a Card, a Strip or a Spotlight. Each game's gift row inside
+  the game is now off: tick "Also show the gifts inside the game" to bring
+  it back.
+- 🗿 **Bulul Arena**: up to 3 gifts per power, and ➕ **a first follow can
+  give a power** (the follower jumps in with +100 health; once per viewer
+  per LIVE, so it can't be spammed).
+- On 0.2.6? The gold ⬇ Update button (top right) downloads this version.
+- After updating: press 🛡️ Survival rules on your Streamathon, add each
+  game's 🎁 Gift list layer, and pick what "A first follow gives" in the Arena.
+
 ## What's new in 0.2.6
 - 🌾 **New game: Tug-of-War (9:16)**: viewers type **1** or **2** to join a
   team of Ifugao fighters on the Banaue rice terraces. Join first: only team
