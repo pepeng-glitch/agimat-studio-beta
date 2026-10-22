@@ -10,6 +10,26 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.8
+- 🔊 **Gifts play your Soundboard**: up to 3 gifts per pad (once per combo,
+  skipped while it still plays), a Gifts on/off switch, and a new 🔊 **Sound
+  gifts** layer. 🎁 Quick now puts the gift on the pad, and ✕ clears it.
+- 🎛️ **The Soundboard inside Agimat Studio**: Edit mode (name, emoji, key,
+  gifts, color, drag to move), and ⌨️ **Keys off** so your number keys type
+  normally while you work.
+- 🌟 **Spotlight on any alert**: the viewer's TikTok photo and name, big, in
+  8 looks (Coin Flip, Tribal Swoosh, Bulul Slam, Spotlight, Trophy, Crown,
+  Fireworks, Polaroid).
+- 💰 **A new alert: one viewer's coins this LIVE** (every 1,000 coins from the
+  same viewer, all their gifts added up).
+- 🛠️ **Admin view** for Meld's side panel: your chat on top, live events
+  below, with chips to hide joins and more.
+- Your TikTok @ is remembered, every button looks the same, and game gift
+  lists can be see-through.
+- On 0.2.6 or 0.2.7? The gold ⬇ Update button (top right) downloads this version.
+- After updating: make your Alert screen layer cover the whole screen (for
+  Spotlight), and re-add old Quick gifts with Quick to see them on their pad.
+
 ## What's new in 0.2.7
 - ⏳ **Streamathon: Survival mode**: every rule can add OR take away time
   (each coin, every 100 taps, follows, shares, gifts you pick), with − / +
