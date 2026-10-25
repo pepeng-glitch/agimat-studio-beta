@@ -10,6 +10,20 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.9
+- 🖥️ **Desktop overlay**: your chat, live events and pads in their own window
+  over your game: always on top, see-through up to 70%, 👻 ghost (clicks go
+  through; Ctrl+Shift+O brings it back), and your 👁 viewers on its bar.
+- 🧭 **Setup checklist** (Live Monitor → Setup): each layer turns green by
+  itself once it's open in your streaming app, and a wrong size says how to
+  fix it. "Send my setup to Pepe" copies a note for Pepe.
+- 🗿 **Tall Bulul Arena**: its own settings and gifts, an Area (full, top,
+  middle or bottom third), and faster floating heads (up to 40).
+- 💬 Chat and gifts show up right away.
+- 📝 A short **Feedback** tour opens once: copy your answers and send them to
+  Pepe. Salamat!
+- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
+
 ## What's new in 0.2.8
 - 🔊 **Gifts play your Soundboard**: up to 3 gifts per pad (once per combo,
   skipped while it still plays), a Gifts on/off switch, and a new 🔊 **Sound
