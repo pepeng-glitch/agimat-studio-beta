@@ -10,6 +10,12 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.10
+- 🧊 **Freeze fix**: on a long, busy LIVE, Agimat could freeze ("Not
+  responding"). Fixed. If it ever freezes again, send Pepe `freeze-log.txt`
+  from Documents\Agimat Studio: it says where it got stuck.
+- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
+
 ## What's new in 0.2.9
 - 🖥️ **Desktop overlay**: your chat, live events and pads in their own window
   over your game: always on top, see-through up to 70%, 👻 ghost (clicks go
@@ -22,7 +28,6 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 - 💬 Chat and gifts show up right away.
 - 📝 A short **Feedback** tour opens once: copy your answers and send them to
   Pepe. Salamat!
-- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
 
 ## What's new in 0.2.8
 - 🔊 **Gifts play your Soundboard**: up to 3 gifts per pad (once per combo,
