@@ -10,11 +10,20 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.11
+- 🏆 **Win counter**: a Custom Goal you count by hand (great for Souls games):
+  big − 1 / + 1 buttons, a key for each, and 3 shapes for every goal: Goal
+  bar, Big number and Souls gold.
+- 🎨 **New header**: "Agimat Studio" big across the top with Ifugao looks
+  (Woven band, Rice terraces, Ikat edge); "Match my theme" picks one for you.
+- 💡 **Tips** at the bottom of the window, and now and then **"What should
+  Pepe build next?"**: copy your idea and send it to Pepe.
+- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
+
 ## What's new in 0.2.10
 - 🧊 **Freeze fix**: on a long, busy LIVE, Agimat could freeze ("Not
   responding"). Fixed. If it ever freezes again, send Pepe `freeze-log.txt`
   from Documents\Agimat Studio: it says where it got stuck.
-- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
 
 ## What's new in 0.2.9
 - 🖥️ **Desktop overlay**: your chat, live events and pads in their own window
