@@ -10,6 +10,16 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.12
+- 👋 **Join shout-outs**: a voice says hi to viewers who join ("Welcome, Juan,
+  Ana and Mark!"). Pick the voice, the talk speed and the words; a key turns
+  it on and off. Made for busy LIVEs: a few names per line, each viewer once.
+- 🎛️ **Pad size**: Soundboard pads in Small, Medium or Large, the same
+  everywhere they show.
+- ⚔️ **Arena**: a size slider for the KO board (top left).
+- 📏 **Laptop screens**: Live Events keeps about 8 lines on a 1366 × 768 screen.
+- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
+
 ## What's new in 0.2.11
 - 🏆 **Win counter**: a Custom Goal you count by hand (great for Souls games):
   big − 1 / + 1 buttons, a key for each, and 3 shapes for every goal: Goal
@@ -18,7 +28,6 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
   (Woven band, Rice terraces, Ikat edge); "Match my theme" picks one for you.
 - 💡 **Tips** at the bottom of the window, and now and then **"What should
   Pepe build next?"**: copy your idea and send it to Pepe.
-- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
 
 ## What's new in 0.2.10
 - 🧊 **Freeze fix**: on a long, busy LIVE, Agimat could freeze ("Not
