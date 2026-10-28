@@ -10,6 +10,15 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.13
+- ⌨️ **Input layers**: show your keys, mouse and controller on stream while you
+  play. Three layers, each its own link (Live Monitor → 🎮 Games). A mouse radar
+  that works in shooters, Xbox and PlayStation shapes, and ⏸ Keys off for
+  passwords.
+- 🎨 **4 looks to mix**: Cordillera, Outline, Clean and Chewlabs Supernova
+  Intergalactic (salamat, chewlabs, for the idea!). Always see-through.
+- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
+
 ## What's new in 0.2.12
 - 👋 **Join shout-outs**: a voice says hi to viewers who join ("Welcome, Juan,
   Ana and Mark!"). Pick the voice, the talk speed and the words; a key turns
@@ -18,7 +27,6 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
   everywhere they show.
 - ⚔️ **Arena**: a size slider for the KO board (top left).
 - 📏 **Laptop screens**: Live Events keeps about 8 lines on a 1366 × 768 screen.
-- On 0.2.6 or newer? The gold ⬇ Update button (top right) downloads this version.
 
 ## What's new in 0.2.11
 - 🏆 **Win counter**: a Custom Goal you count by hand (great for Souls games):
