@@ -10,6 +10,21 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.14
+> ⚠️ **Video flexer: use it at your own risk.** It fetches a viewer's public TikTok video with a free helper
+> (yt-dlp) that you download yourself. TikTok's rules may not allow that, a video can carry music or things you
+> don't want on stream (your LIVE could be muted or flagged), and TikTok can change things any day and stop it
+> working. Pepe isn't responsible for anything that happens to your account. It stays **off** until you press Start.
+
+- 🎬 **Video flexer**: a viewer sends a gift you picked, and their own TikTok video plays on your
+  stream. Three gift groups: pick a video (vt1–vt9), random, or most viewed.
+- 🎛️ **Pad looks**: your soundboard pads in 6 looks that follow your theme (Settings → Appearance).
+- 🎵 **Pause Spotify for sounds**: a switch, a strip under each pad, All pads on / off.
+- ✍️ **Text layers**, 🏆 **Wins & losses**, and every layer shows its outline while you place it.
+- 🖥️ **Desktop overlay**: one link, resize from every edge, Game keys, drag pads to swap.
+- 🛠️ **Fixes**: Settings no longer freezes with thousands of viewers, Now Playing keeps following
+  Spotify, and Agimat asks Windows not to slow it down while a game runs.
+
 ## What's new in 0.2.13
 - ⌨️ **Input layers**: show your keys, mouse and controller on stream while you
   play. Three layers, each its own link (Live Monitor → 🎮 Games). A mouse radar
