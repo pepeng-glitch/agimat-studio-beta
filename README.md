@@ -10,6 +10,14 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.15
+- 🩺 **Health log**: Agimat writes `health-log.txt` (Documents\Agimat Studio): memory and CPU every minute,
+  errors, crashes, and a note if the last run did not close normally. Send it to Pepe if Agimat gets
+  heavy, freezes or crashes.
+- 🔘 **Rounded buttons**, and the Live Monitor is now **Overlays & Controls**.
+- ⭐ **Your own name for points**, ⌨️ **any key for hotkeys**, 🔗 **links that follow your picks**.
+- ⚔️ **Arena**: sleepy heads, head size, bigger numbers, a KO corner of 3 / 5 / 10 names.
+
 ## What's new in 0.2.14
 > ⚠️ **Video flexer: use it at your own risk.** It fetches a viewer's public TikTok video with a free helper
 > (yt-dlp) that you download yourself. TikTok's rules may not allow that, a video can carry music or things you
