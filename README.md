@@ -10,6 +10,14 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.16
+- 🏠 **A small, tidy Agimat window**: Connect, two big buttons (**Open chat window**, **Set up my stream**),
+  your LIVE switches and the big stop. Only this window opens at start.
+- 💬 The Desktop overlay is now the **chat window**: your chat, events, pads and game keys over your game
+  (only you see it). Connect opens it. A safer 📌 pin; no Edge WebView2? It opens in your browser.
+- ✨ **New stream layers**: 💖 Tap fountain, 🎆 Gift firework, 🏅 Top gifter, 🔥 Top streak, 🌹 Gift counters.
+- 🎵 Pause Spotify for sounds is now in Overlays & Controls → Soundboard.
+
 ## What's new in 0.2.15
 - 🩺 **Health log**: Agimat writes `health-log.txt` (Documents\Agimat Studio): memory and CPU every minute,
   errors, crashes, and a note if the last run did not close normally. Send it to Pepe if Agimat gets
