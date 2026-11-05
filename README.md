@@ -10,6 +10,11 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.19
+- 🎵 **Spotify works on Spotify FREE**: open the Spotify app on your PC and Agimat finds your song. 🎵 Now Playing,
+  ▶ Play / Pause / Skip from gifts or chat, and Pause Spotify for sounds work on any account, with no setup.
+- 🙋 **Song requests (Premium) in 3 steps**: no Client secret to copy anymore.
+
 ## What's new in 0.2.18
 - 🛡️ **TikTok-safe**: one big 🛑 **STOP + CLEAR STREAM** (stops sounds and videos, clears pop-ups, pauses games),
   gift lists that **pop in** instead of staying up, Socials shows **TikTok only**, the video flexer plays once,
@@ -292,16 +297,19 @@ the streamathon can switch to your ending scene. TikTok LIVE Studio has no
 remote control, so it gets everything except scene buttons.
 
 ## 8. Spotify (optional)
-You need **Spotify Premium** (Spotify's rule for apps like this, and for
-controlling playback). The app's **⚙️ Settings → 🎵 Music Bot** tab walks
-you through these steps with buttons.
-1. Go to **developer.spotify.com/dashboard**, log in, **Create app**.
-2. Any name. Redirect URI, exactly: `http://127.0.0.1:8000/spotify/callback`
-   (the numbers, not "localhost"). Tick **Web API**. Save.
-3. Open the app's **Settings**: copy the **Client ID** and **Client secret**.
-4. In Agimat's **Music Bot** tab, paste both and connect.
+**Spotify Free or Premium, no setup:** open the **Spotify app** on the same PC as Agimat and play a song.
+Agimat asks Windows what's playing (the same thing your keyboard's play key uses), so 🎵 Now Playing,
+▶ Play / Pause / Skip from gifts or chat, and Pause Spotify for sounds just work. **Settings → Music (Spotify)**
+turns green: "Working. Now: your song". (Spotify on your phone or in a web browser can't be seen this way.)
 
-Keep your Client secret private, like a password.
+**Song requests need Spotify Premium** (Spotify's rule: since March 2026 a home-made Spotify app only works while
+the person who made it has Premium). **Settings → Music (Spotify) → Set up song requests** walks you through 3 steps:
+1. **Open Spotify Dashboard**, log in, **Create app**, any name. In Redirect URIs paste, exactly:
+   `http://127.0.0.1:8000/spotify/callback` (the numbers, not "localhost"). Tick **Web API**. Save.
+2. Open the app's **Settings**, copy the **Client ID**, and press **Paste** in Agimat.
+3. Press **Connect Spotify**, then **Agree** on Spotify's page.
+
+No Client secret needed anymore.
 
 ## Your files
 Settings, media and data are in **Documents\Agimat Studio**. New version:
