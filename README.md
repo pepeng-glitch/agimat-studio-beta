@@ -10,6 +10,14 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.18
+- 🛡️ **TikTok-safe**: one big 🛑 **STOP + CLEAR STREAM** (stops sounds and videos, clears pop-ups, pauses games),
+  gift lists that **pop in** instead of staying up, Socials shows **TikTok only**, the video flexer plays once,
+  rude names show as "a viewer", and nothing on stream moves forever.
+- 👻 **Ghost, for real**: only your chat and alerts float on your game, no box, clicks go to the game.
+  Back: Ctrl+Shift+O or rest the mouse on the 👻 tag. The See-through slider is gone.
+- 🌾 **Banaue layers**: 🛕 Shrine (Top gifter looks), 🗡️ Hype Totem (full = Fever + Double time), 🌦️ Weather (edges only).
+
 ## What's new in 0.2.16
 - 🏠 **A small, tidy Agimat window**: Connect, two big buttons (**Open chat window**, **Set up my stream**),
   your LIVE switches and the big stop. Only this window opens at start.
