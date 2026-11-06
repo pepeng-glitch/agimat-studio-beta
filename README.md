@@ -10,6 +10,17 @@ New here? The 5 steps on one page (also in the zip: **Quick Start.html**).
 
 ![Agimat Studio Quick Start: unzip and open, paste your code, connect, open the Live Monitor, put it on your stream](quick-start.png)
 
+## What's new in 0.2.20
+- 🪬 **Agimat keeps running by the clock**: press X and it stays by the clock (bottom right), like Discord. Click the
+  Amulet to bring it back; right-click it for the chat window, setup, Read chat aloud, Auto-Keys, Stop and Quit.
+- 🎮 **The Arena waits for your ▶ Play**: viewers tap to join first; ⏸ Pause, 🔄 Reset; gift powers wait for Play.
+- 🪟 **A new Frames tab**: a camera frame in 6 looks with your name plate, and a smarter 🌦️ Weather (sizes itself by
+  how many watch, a 500+ coin gift makes a Storm, new ⭐ Tala, ✨ Alitaptap and 🔥 Apoy).
+- 👻 **Move and size Ghost** right on your game: rest the mouse on the ghost tag for a second.
+- ⌨️ **New looks** for your keys, mouse and controller (Ship bridge, Officer whites, Stone and weave), the **Xbox
+  Series** and **PS5** controllers, and **Real colors**.
+- 🧪 **Your beta days left** next to the version, gold in the last 7 days.
+
 ## What's new in 0.2.19
 - 🎵 **Spotify works on Spotify FREE**: open the Spotify app on your PC and Agimat finds your song. 🎵 Now Playing,
   ▶ Play / Pause / Skip from gifts or chat, and Pause Spotify for sounds work on any account, with no setup.
